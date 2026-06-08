@@ -1,3 +1,7 @@
+## Screenshot
+
+![To-Do List App](assets/screenshot.png)
+
 # To-Do List App (ReactJS)
 
 A simple and responsive To-Do List application built using ReactJS.
